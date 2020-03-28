@@ -1,0 +1,28 @@
+#google-translate {
+  height: 60vh;
+}
+
+#google-translate webview {
+  display: inline-flex;
+  height: 100%;
+  width: 100%;
+}
+
+#history {
+  height: 40vh;
+}
+
+#save-btn {
+  margin: 10px;
+  padding: 5px;
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px solid black;
+  width: 300px;
+} 
+
+th,td {
+  border: 1px solid black;
+}
